@@ -1,35 +1,24 @@
 {
-  "properties": [
-    "Apartment T0",
-    "Apartment T1",
-    "Apartment T2",
-    "Apartment T3",
-    "Apartment T4",
-    "Apartment T5",
-    "Apartment T6",
-    "Castle",
-    "Cozy bridge"
-  ],
   "insurances": {
-    "aaaa": {
-      "name": "Base",
-      "description": "Covers problems related with construction"
+    "6b3a331b7ebd1842a6bbd56755ebbfc6": {
+      "name": "Car",
+      "description": "Insurance for Cars"
     },
-    "aaab": {
-      "name": "Electronic Devices",
-      "description": "Covers problems related with devices such as washing machine, fridge, etc, up to 5000 in repairs"
+    "5d13abc0cc1c5c36026f994395c7ab5a": {
+      "name": "Truck",
+      "description": "Insurance for Trucks"
     },
-    "aaac": {
-      "name": "Fire Hazards",
-      "description": "Covers fire hazard problems"
+    "ba0fc1eca6fc8371ab7a6fc3eda0f442": {
+      "name": "Bike",
+      "description": "Insurance for Bikes"
     },
-    "aaad": {
-      "name": "Theft",
-      "description": "Covers damages caused by stolen goods"
+    "ec2aed3cd002a90673ff2433d806bc2f": {
+      "name": "Helicopter",
+      "description": "Insurance for Helicopters"
     },
-    "aaae": {
-      "name": "Natural Disasters",
-      "description": "Covers damages caused by Natural Disasters. Winter is coming"
+    "d39b91235bf290d92da67ac17f11daa4": {
+      "name": "Tank",
+      "description": "Insurance for Tanks"
     }
   },
   "users": {
@@ -44,6 +33,15 @@
       "email": "arroz.com.salsichas@enlatados.com",
       "nif": "111222333",
       "quotes": []
+    },
+    "026071139": {
+      "name": "Afonso Henriques",
+      "email": "isto.e.tudo@nosso.pt",
+      "nif": "026071139",
+      "quotes": [
+        "insurance": "Tank",
+        "value": "5000"
+      ]
     }
   }
 }

@@ -1,0 +1,23 @@
+{
+  "name": "sise-cweb-data",
+  "version": "0.0.0",
+  "description": "Data to test the Restful API with",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasdavid/sise-cweb-data.git"
+  },
+  "keywords": [
+    "SISE",
+    "CWEB"
+  ],
+  "author": "David Dias <mail@daviddias.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diasdavid/sise-cweb-data/issues"
+  },
+  "homepage": "https://github.com/diasdavid/sise-cweb-data#readme"
+}

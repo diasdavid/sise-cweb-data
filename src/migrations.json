@@ -39,8 +39,10 @@
       "email": "isto.e.tudo@nosso.pt",
       "nif": "026071139",
       "quotes": [
-        "insurance": "Tank",
-        "value": "5000"
+        {
+          "insurance": "Tank",
+          "value": 5000
+        }
       ]
     }
   }

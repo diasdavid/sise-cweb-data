@@ -1,6 +1,6 @@
 {
   "name": "sise-cweb-data",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Data to test the Restful API with",
   "main": "src/index.js",
   "scripts": {
